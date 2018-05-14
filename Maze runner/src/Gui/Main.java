@@ -6,7 +6,7 @@ public class Main {
 	public static final Logger log = Logger.getLogger(Main.class);
 	public static final Logger logging = Logger.getLogger(ArrayDraw.class);
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) {   
 		// TODO Auto-generated method stub
 		StartWindow s = new StartWindow();
 		s.mainGui();
