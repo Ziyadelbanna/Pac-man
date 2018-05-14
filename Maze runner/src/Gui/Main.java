@@ -2,7 +2,7 @@ package Gui;
 import org.apache.log4j.*;
 public class Main {
 
-	
+	   
 	public static final Logger log = Logger.getLogger(Main.class);
 	public static final Logger logging = Logger.getLogger(ArrayDraw.class);
 	
