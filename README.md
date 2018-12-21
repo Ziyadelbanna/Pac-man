@@ -1,5 +1,5 @@
 # Pac-man
 
-## Starting window
+## ![Starting window](//Untitled.png)
 
-## The maze
+## ![The maze](//maze.jpg)
