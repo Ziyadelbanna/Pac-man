@@ -1,6 +1,6 @@
 # Pac-man
 
->_Maze survival game with score, timer and other controls. The aim is to reach the yellow door which will 
+>_Maze survival game with score, timer and other controls. The aim is to reach the yellow door which will_ 
 
 _Starting window_
 
@@ -12,3 +12,5 @@ _The maze_
 
 ### Download Pac-man:
 Download the game [here]()
+
+_The game version is for windows_
