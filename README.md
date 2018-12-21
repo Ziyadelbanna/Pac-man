@@ -1,5 +1,5 @@
 # Pac-man
 
-## ![Starting window](//Untitled.png)
+## ![Starting window](https://github.com/ziyadelbanna/Pac-man/blob/master/Untitled.png)
 
-## ![The maze](//maze.jpg)
+## ![The maze](https://github.com/ziyadelbanna/Pac-man/blob/master/maze.jpg)
