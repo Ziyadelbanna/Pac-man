@@ -1,7 +1,9 @@
 # Pac-man
 
-## Starting window
+##|_Starting window_
 ![Starting window](https://github.com/ziyadelbanna/Pac-man/blob/master/Untitled.png)
 
-## The maze
+##_The maze_
 ![The maze](https://github.com/ziyadelbanna/Pac-man/blob/master/maze.jpg)
+
+###_Download Pac-man_
