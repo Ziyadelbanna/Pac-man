@@ -1,5 +1,5 @@
 # Pac-man
 
-## Start window
+## Starting window
 
-## Start game
+## The maze
