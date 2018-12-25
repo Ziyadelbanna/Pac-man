@@ -15,4 +15,4 @@ _The maze_
 ### Download Pac-man:
 Download the game [here]()
 
-_The game version is for windows_
+_The game version is for windows._
