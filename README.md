@@ -1,10 +1,10 @@
 # Pac-man
 
->Maze survival gamet with score, timer and other controls. The aim is to reach the yellow door which will help Pacman get outside the maze.
+>Maze survival game with score, timer and other controls. The aim is to reach the yellow door which will help Pacman get outside the maze.
 
-* _The idea of tthtis game is netarly similar to the original Pac-man game_
+* _The idea of this game is nearly similar to the original Pac-man game_
 
-_Startintg witndow_
+_Starting window_
 
 ![Starting window](https://github.com/ziyadelbanna/Pac-man/blob/master/Untitled.png)
 
