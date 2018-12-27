@@ -4,7 +4,7 @@
 
 * _The idea of this game is nearly similar to the original Pac-man game_
 
-_Starting window_
+_Starting witndow_
 
 ![Starting window](https://github.com/ziyadelbanna/Pac-man/blob/master/Untitled.png)
 
