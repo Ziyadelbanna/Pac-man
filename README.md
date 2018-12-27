@@ -1,4 +1,4 @@
-# Pac-man
+# Pac-man  :person_with_blond_hair:
 
 >Maze survival game with score, timer and other controls. The aim is to reach the yellow door which will help Pacman get outside the maze.
 
