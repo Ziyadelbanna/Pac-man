@@ -15,6 +15,6 @@ _The maze_
 ### Download Pac-man:
 * Download the game [here](https://github.com/ziyadelbanna/Pac-man/blob/master/Pac-man.zip?raw=true)
 * Extract files to a new folder
-* Open Pac-man application and have fun
+* Open Pac-man application
 
 _The game version is for windows._
