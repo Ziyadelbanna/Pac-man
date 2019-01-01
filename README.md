@@ -13,6 +13,6 @@ _The maze_
 ![The maze](https://github.com/ziyadelbanna/Pac-man/blob/master/maze.jpg)
 
 ### Download Pac-man:
-Download the game [here]()
+Download the game [here](https://github.com/ziyadelbanna/Pac-man/blob/master/Pac-man.zip?raw=true)
 
 _The game version is for windows._
