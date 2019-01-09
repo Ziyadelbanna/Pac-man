@@ -1,6 +1,6 @@
 # Pac-man  :person_with_blond_hair:
 
->_A Maze survival game with score, timer and other controls. The goal is to reach the yellow door which will help Pacman get outside the maze._
+>_This is a simple maze survival game with score, timer and other controls. The goal is to reach the yellow door which will help Pacman get outside the maze._
 
 * _The idea of this game is nearly similar to the original Pac-man game_
 
