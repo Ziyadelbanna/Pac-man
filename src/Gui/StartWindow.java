@@ -91,7 +91,7 @@ public class StartWindow {
 			if (e.getSource() == btnInstructions) {
 				JOptionPane.showMessageDialog(null, "Welcome to our Programme"
 						+ "---------------------------------------------------------------- \n"
-						+ "1- Press Start game\n" 
+						+ "1- Press Start game\n"
 						+ "2- Play in the maze collect gifts, bombs, bullets\n"
 						+ "3- Becarefulll from the monsters !\n"
 						+ "4- Try to get to the gate as soon as possible to get highest score\n" + "5- Have fun!!!\n"
@@ -233,7 +233,7 @@ public class StartWindow {
 	 * Initialize the contents of the frame.
 	 */
 	private void initialize() {
-		frame = new JFrame("Pack Man");
+		frame = new JFrame("Pac Man");
 		frame.getContentPane().setBackground(Color.BLACK);
 		frame.setBounds(-6, -6, 1380, 800);
 		frame.addKeyListener(action);
@@ -326,7 +326,7 @@ public class StartWindow {
 
 		panelTimeTitle = new JPanel();
 		panelTimeTitle.setLayout(null);
-		panelTimeTitle
+		panelTimeTitlehttps://github.com/ziyadelbanna/Calculifte/blob/master/calculator.jar?raw=true
 				.setBorder(new BevelBorder(BevelBorder.RAISED, Color.BLACK, Color.BLACK, Color.BLACK, Color.BLACK));
 		panelTimeTitle.setBackground(Color.RED);
 		panelTimeTitle.setBounds(46, 138, 105, 44);
